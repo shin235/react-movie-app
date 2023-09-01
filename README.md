@@ -1,4 +1,4 @@
-### [Movie app](https://shin235.github.io/react-movie-app/)
+### [Movie web app](https://shin235.github.io/react-movie-app/)
 
 
 # Getting Started with Create React App
